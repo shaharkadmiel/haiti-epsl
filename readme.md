@@ -1,4 +1,4 @@
-Supplementary material for: The 2010 Haiti earthquake revisited: an acoustic intensity map from remote atmospheric infrasound observations
+Supplementary material for: *The 2010 Haiti earthquake revisited: an acoustic intensity map from remote atmospheric infrasound observations*
 ===
 
 Authors
