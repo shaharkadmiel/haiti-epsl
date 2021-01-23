@@ -14,4 +14,4 @@ Contents
 
 - Haiti earthquake beamforming results - [Haiti.20100112215310.BF.nc](https://github.com/shaharkadmiel/haiti-epsl/raw/master/Haiti.20100112215310.BF.nc)
 - Rayleigh integral beamforming results - [RI.BF.nc](https://github.com/shaharkadmiel/haiti-epsl/raw/master/RI.BF.nc)
-- Example IPython Notebook for computing the Rayleigh integral radiated from a single piston - [Static](https://nbviewer.jupyter.org/github/ shaharkadmiel/haiti-epsl/blob/master/RayleighIntegral.ipynb)[Interactive](https://mybinder.org/v2/gh/ shaharkadmiel/haiti-epsl/master?filepath=RayleighIntegral.ipynb)
+- Example IPython Notebook for computing the Rayleigh integral radiated from a single piston - [Static](https://nbviewer.jupyter.org/github/shaharkadmiel/haiti-epsl/blob/master/RayleighIntegral.ipynb)[Interactive](https://mybinder.org/v2/gh/shaharkadmiel/haiti-epsl/master?filepath=RayleighIntegral.ipynb)
